@@ -16,12 +16,12 @@ let task1Sum =
   task1[8] +
   task1[9];
 
-console.log("sum of task 1 is: " + task1Sum);
+console.log("sum of task 1 elements is: " + task1Sum);
 
 let task1Length = task1.length;
 
-console.log("length of task 1 is: " + task1Length);
+console.log("Number of elements in task 1 is: " + task1Length);
 
 let AverageOfTask1 = task1Sum / task1Length;
 
-console.log("average for task 1 is: " + AverageOfTask1);
+console.log("average for task 1 elements is: " + AverageOfTask1);
