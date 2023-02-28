@@ -61,3 +61,7 @@ const task3Product = {
 };
 
 console.log(task3Product);
+
+console.log(
+  `Product name is ${task3Product.productTitle}, product price is $${task3Product.productPrice}, product resolution is ${task3Product.productResolution} and you can buy it at ${task3Product.shopAddresses}.`
+);
